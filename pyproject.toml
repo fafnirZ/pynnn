@@ -1,0 +1,7 @@
+[project]
+name = "pynnn"
+version = "0.1.0"
+description = "Python wrapper for the n³ terminal manager (query mode)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
